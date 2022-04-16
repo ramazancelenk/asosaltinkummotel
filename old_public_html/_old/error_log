@@ -1,0 +1,12 @@
+[18-Apr-2015 18:12:34 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 16
+[21-Apr-2015 16:53:23 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 8
+[21-Apr-2015 16:54:11 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 8
+[21-Apr-2015 17:40:41 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 9
+[21-Apr-2015 17:40:59 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 10
+[21-Apr-2015 17:40:59 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 10
+[21-Apr-2015 17:40:59 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 10
+[21-Apr-2015 17:40:59 Europe/Istanbul] PHP Warning:  Invalid argument supplied for foreach() in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 10
+[21-Apr-2015 17:46:19 Europe/Istanbul] PHP Parse error:  syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 12
+[21-Apr-2015 18:00:35 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 9
+[21-Apr-2015 18:00:36 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 9
+[21-Apr-2015 18:02:28 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/asosalti/public_html/18-04-2015_18-02_facebook_album_photos.php on line 7

@@ -1,0 +1,4 @@
+AuthUserFile /home/asosalti/public_html/update/.htpasswd
+AuthName "PAROLA KONTROL"
+AuthType Basic
+require user BasriOkur
